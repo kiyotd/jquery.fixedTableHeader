@@ -24,6 +24,7 @@
     // const resultCss = { ...defaultCss, ...css }
 
     $(target, this).css(resultCss);
+    return this;
 
   }
 })(jQuery);
