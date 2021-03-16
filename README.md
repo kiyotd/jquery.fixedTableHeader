@@ -80,3 +80,16 @@ $(".tableClassName").fixedTableHeader(".table_header")
 ```javascript
 $(".tableClassName").fixedTableHeader("th", null)
 ```
+
+## Licence
+
+The MIT License
+
+## Author
+
+**kiyotd**  
+web designer, front-end engineer
+
+- [kiyotd.com](https://kiyotd.com/)
+- [twitter](https://twitter.com/_kiyotd)
+- [github](https://github.com/kiyotd)
